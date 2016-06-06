@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Avaliação das Palestras</string>
+
+    <string name="nome">Nome</string>
+    <string name="pessoa_fisica">Pessoa Física</string>
+    <string name="pessoa_juridica">Pessoa Jurídica</string>
+    <string name="cpf">CPF</string>
+    <string name="receber_news">Receber News</string>
+    <string name="email">E-mail</string>
+    <string name="cnpj">CNPJ</string>
+
+    <string name="pr">Avalie o palestrante clicando aqui</string>
+    <string name="rs">Professor Eduardo</string>
+    <string name="sc">Professor João</string>
+
+
+    <string-array name="estados">
+        <item>@string/pr</item>
+        <item>@string/rs</item>
+        <item>@string/sc</item>
+
+    </string-array>
+
+    <string name="cascavel">Escolha aqui</string>
+    <string name="curitiba">Excelente</string>
+    <string name="londrina">Bom</string>
+    <string name="garças">Insatisfatório</string>
+
+
+    <string name="canoas">Excelente</string>
+    <string name="porto_alegre">Bom</string>
+    <string name="sao_leopoldo">Insatisfatório</string>
+
+    <string name="blumenau">Excelente</string>
+    <string name="florianopolis">Bom</string>
+    <string name="garopaba">Insatisfatório</string>
+
+    <string name="saojose">Excelente</string>
+    <string name="saobernardo">Bom</string>
+    <string name="diadema">Insatisfatório</string>
+
+    <string-array name="estados_pr">
+        <item>@string/cascavel</item>
+        <item>@string/curitiba</item>
+        <item>@string/londrina</item>
+        <item>@string/garças</item>
+    </string-array>
+
+    <string-array name="estados_rs">
+        <item>@string/canoas</item>
+        <item>@string/porto_alegre</item>
+        <item>@string/sao_leopoldo</item>
+    </string-array>
+
+    <string-array name="estados_sc">
+        <item>@string/blumenau</item>
+        <item>@string/florianopolis</item>
+        <item>@string/garopaba</item>
+    </string-array>
+
+    <string-array name="estados_sp">
+        <item>@string/blumenau</item>
+        <item>@string/florianopolis</item>
+        <item>@string/garopaba</item>
+    </string-array>
+</resources>
